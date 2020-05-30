@@ -1,6 +1,6 @@
 {
-  "name": "react-native-react-native-box-shadow",
-  "title": "React Native React Native Box Shadow",
+  "name": "react-native-box-shadow",
+  "title": "React Native Box Shadow",
   "version": "1.0.0",
   "description": "TODO",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "android",
     "index.js",
     "ios",
-    "react-native-react-native-box-shadow.podspec"
+    "react-native-box-shadow.podspec"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
